@@ -4,10 +4,10 @@ Simple python library with utilities to support the notebooks of the module BIOS
 
 ## Installation
 
-This package is published on PyPI and can be installed via pip:
+To install this package via pip:
 
 ```bash
-pip install bios0032utils
+pip install git+https://github.com/MScEcologyAndDataScienceUCL/bios0032_utils
 ```
 
 ## Features

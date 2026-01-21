@@ -27,8 +27,8 @@ requires = ["uv_build >= 0.9.26, <0.10.0"]
 build-backend = "uv_build"
 
 [project.urls]
-"Homepage" = "https://github.com/MScEcologyAndDataScienceUCL/BIOS0032_AI4Environment"
-"Bug Tracker" = "https://github.com/MScEcologyAndDataScienceUCL/BIOS0032_AI4Environment/issues"
+"Homepage" = "https://github.com/MScEcologyAndDataScienceUCL/bios0032_utils"
+"Bug Tracker" = "https://github.com/MScEcologyAndDataScienceUCL/bios0032_utils/issues"
 
 [tool.ruff]
 line-length = 79
